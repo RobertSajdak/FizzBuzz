@@ -6,11 +6,6 @@ namespace FizzBuzz
 {
     class FizzBuzz
     {
-        public FizzBuzz()
-        {
-
-        }
-
         public string GetOutput(int number)
         {
             if (number % 15 == 0)
